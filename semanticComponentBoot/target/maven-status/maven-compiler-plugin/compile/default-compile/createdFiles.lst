@@ -1,0 +1,6 @@
+br/imd/ufrn/dao/EducationDAO.class
+br/imd/ufrn/controller/Rules.class
+br/imd/ufrn/service/SchoolService.class
+br/imd/ufrn/controller/JenaController.class
+br/imd/ufrn/util/ImportJsonld.class
+br/imd/ufrn/controller/Queries.class
